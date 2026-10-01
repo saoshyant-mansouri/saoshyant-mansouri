@@ -233,8 +233,6 @@ flowchart TD
 
 <img height="180" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saoshyant-mansouri&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
-<img height="180" alt="" src="https://streak-stats.demolab.com?user=saoshyant-mansouri&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
 </div>
 
 ### Where the hours go
@@ -280,10 +278,10 @@ gantt
     Semantic Kernel · Azure OpenAI       :active, a3, 2025-09, 2026-10
 
     section Web
-    React · Next.js · Three.js           :done, w1, 2023-01, 2026-10
+    React · Next.js · Three.js           :done, w1, 2022-01, 2026-10
     Vue · Node · Express                 :done, w2, 2023-06, 2025-06
     Angular                              :done, w3, 2024-01, 2025-06
-    SvelteKit                            :active, w4, 2025-06, 2026-10
+    Svelte · SvelteKit                   :active, w4, 2023-06, 2026-10
 ```
 
 ---
